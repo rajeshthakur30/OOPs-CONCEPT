@@ -1,3 +1,10 @@
 *.exe
 *.o
 *.obj
+build/
+Debug/
+Release/
+.DS_Store
+Thumbs.db
+compile.bat
+*.tds
