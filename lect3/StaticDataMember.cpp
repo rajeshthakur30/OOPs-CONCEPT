@@ -39,6 +39,7 @@ void display_total(){
 
 int Customer::total_customer=0;
 int main(){
+  
   Customer A1("Rohit",1,1000);
   Customer A2("Mohit",2,1010);
   //  A1.display();
